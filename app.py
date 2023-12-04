@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv() 
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"]="hf_ubvbvcdwc645098765464bfbdfzfDtVkljkgfhhENhrmnb"
+os.environ["HUGGINGFACEHUB_API_TOKEN"]="hf_ubvbvcdwc645098765464hghgbcvb cvbfbdfzfDtVkljkgfhhENhrmnb"
 
 from langchain import HuggingFaceHub
 
